@@ -6,3 +6,8 @@ https://aniket2790.hashnode.dev/understanding-html-tags-and-elements
 https://aniket2790.hashnode.dev/understanding-network-devices
 https://aniket2790.hashnode.dev/dns-record-types-explained
 https://aniket2790.hashnode.dev/git-for-beginners-basics-and-essential-commands
+https://aniket2790.hashnode.dev/dns-resulution?showSharer=true
+https://aniket2790.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder?showSharer=true
+https://aniket2790.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true
+https://aniket2790.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true
+https://aniket2790.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals?showSharer=true
